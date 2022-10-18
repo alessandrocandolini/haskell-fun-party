@@ -1,3 +1,5 @@
+[![CI](https://github.com/alessandrocandolini/haskell-fun-party/actions/workflows/ci.yml/badge.svg)](https://github.com/alessandrocandolini/haskell-fun-party/actions/workflows/ci.yml)
+
 # haskell-fun-party
 
 ## How to build and run locally
