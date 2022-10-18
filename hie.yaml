@@ -1,0 +1,14 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "haskell-fun-party:lib"
+
+    - path: "./app/Main.hs"
+      component: "haskell-fun-party:exe:haskell-fun-party-exe"
+
+    - path: "./app/Paths_haskell-fun-party.hs"
+      component: "haskell-fun-party:exe:haskell-fun-party-exe"
+
+    - path: "./test"
+      component: "haskell-fun-party:test:haskell-fun-party-test"
+
